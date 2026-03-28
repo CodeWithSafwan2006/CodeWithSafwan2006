@@ -9,11 +9,15 @@
 
 ## 🧑‍💻 About Me:
 
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 * 🔭 I’m currently working on **Cool Web Projects**
 * 🌱 I’m learning **MERN Stack & AI**
 * 👯 I’m looking to collaborate on **Open Source**
 * 💬 Ask me about **Web Dev, JavaScript, Python**
 * ⚡ Fun fact: I love building real-world projects 😎
+
+<br><br><br>
 
 ---
 
