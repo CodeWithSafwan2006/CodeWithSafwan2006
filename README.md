@@ -60,15 +60,6 @@
   <img src="https://streak-stats.demolab.com?user=CodeWithSafwan2006&theme=radical" />
 </p>
 
----
-
-## 🔥 Top Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSafwan2006&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
-
----
 
 ## 🐍 Contribution Snake:
 
