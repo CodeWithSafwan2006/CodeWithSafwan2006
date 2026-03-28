@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me:
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 * 🔭 I’m currently working on **Cool Web Projects**
 * 🌱 I’m learning **MERN Stack & AI**
@@ -17,7 +17,7 @@
 * 💬 Ask me about **Web Dev, JavaScript, Python**
 * ⚡ Fun fact: I love building real-world projects 😎
 
-<br><br><br>
+<br><br><br><br>
 
 ---
 
