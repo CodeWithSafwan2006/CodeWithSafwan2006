@@ -12,10 +12,10 @@
 
 <br/><br/>
 
-![Open to Work](https://img.shields.io/badge/🚀_OPEN_TO_WORK-0e2240?style=for-the-badge&labelColor=0e2240&color=58a6ff)
-![MERN Stack](https://img.shields.io/badge/✅_MERN_STACK-0d2818?style=for-the-badge&color=3fb950)
-![AI ML](https://img.shields.io/badge/🤖_AI_/_ML-1e1040?style=for-the-badge&color=bc8cff)
-![Open Source](https://img.shields.io/badge/🔥_OPEN_SOURCE-2a1500?style=for-the-badge&color=f78166)
+![Open to Work](https://img.shields.io/badge/🚀_OPEN_TO_WORK-058a6ff?style=for-the-badge&color=58a6ff)
+![MERN Stack](https://img.shields.io/badge/✅_MERN_STACK-3fb950?style=for-the-badge&color=3fb950)
+![AI ML](https://img.shields.io/badge/🤖_AI_/_ML-bc8cff?style=for-the-badge&color=bc8cff)
+![Open Source](https://img.shields.io/badge/🔥_OPEN_SOURCE-f78166?style=for-the-badge&color=f78166)
 
 </div>
 
@@ -84,12 +84,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff" />
-<img width="49%" src="https://streak-stats.demolab.com?user=CodeWithSafwan2006&theme=github-dark-blue&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&ring_color=58a6ff" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithSafwan2006&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSafwan2006&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSafwan2006&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=8" />
 
 </div>
 
@@ -98,7 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CodeWithSafwan2006&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=CodeWithSafwan2006&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </div>
 
 ---
@@ -106,7 +107,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSafwan2006&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSafwan2006&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
