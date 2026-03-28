@@ -55,9 +55,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=radical&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSafwan2006&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=CodeWithSafwan2006&theme=radical" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 🔥 Top Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSafwan2006&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSafwan2006&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
