@@ -19,18 +19,16 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-```yaml
-Name     : Safwan Qureshi
-Location : Ahmedabad, Gujarat 🇮🇳
-Role     : Full Stack Developer & AI Enthusiast
-Status   : Open to Opportunities 🚀
 
-Currently : Building Cool Web Projects
-Learning  : MERN Stack + AI/ML
-Goal      : Build impactful, scalable apps
-Ask me   : Web Dev, JavaScript, Python
-Fun fact  : I love real-world projects 😎
-```
+- 👤 **Name:** Safwan Qureshi
+- 📍 **Location:** Ahmedabad, Gujarat 🇮🇳
+- 💼 **Role:** Full Stack Developer & AI Enthusiast
+- 🚀 **Status:** Open to Opportunities
+- 🔭 **Currently:** Building Cool Web Projects
+- 🌱 **Learning:** MERN Stack + AI/ML
+- 🎯 **Goal:** Build impactful, scalable apps
+- 💬 **Ask me about:** Web Dev, JavaScript, Python
+- ⚡ **Fun fact:** I love real-world projects 😎
 
 </td>
 <td width="45%" align="center">
