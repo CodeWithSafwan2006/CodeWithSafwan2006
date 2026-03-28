@@ -20,11 +20,10 @@
 
 ### 📊 GitHub Stats:
 ![Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=radical)
-
 ---
 
 ### 🔗 Connect with me:
 <p>
-<a href="https://linkedin.com/in/your-link">LinkedIn</a> |
-<a href="https://yourportfolio.com">Portfolio</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/safwan-qureshi-a8b2823ba/">LinkedIn</a> |
+<a href="https://https://safwan2006.vercel.app/">Portfolio</a>
 </p>
