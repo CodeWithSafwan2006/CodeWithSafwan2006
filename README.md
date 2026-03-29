@@ -55,8 +55,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSafwan2006&show_icons=true&theme=radical&cache_seconds=1800" />
-  <br/>
+  
   <img src="https://streak-stats.demolab.com?user=CodeWithSafwan2006&theme=radical" />
 </p>
 
